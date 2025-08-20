@@ -1,5 +1,8 @@
-# College_Management_System
 A simple and responsive college academic departments webpage built using HTML and CSS.
+
+Frontend project: Restaurant reservation form designed with HTML & CSS for table booking.
+Restaurant table booking webpage created with HTML and CSS, focusing on responsive layout and clean design.
+
 # College Academic Departments Webpage
 
 This project is a simple **College Academic Departments webpage** designed using **HTML and CSS**.  
