@@ -1,4 +1,4 @@
-![image alt](https://github.com/Pravink12/College_Management_System/blob/c4009e74a3b02841f027e5f734dd55c1059161ac/3.png)
+![image alt](https://github.com/Pravink12/College_Management_System/blob/6795741bd8d7378f543ebe2c4eb129761ddb0ae0/task%202%20image.jpg)
 A simple and responsive college academic departments webpage built using HTML and CSS.
 
 Frontend project: Restaurant reservation form designed with HTML & CSS for table booking.
